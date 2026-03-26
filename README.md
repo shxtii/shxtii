@@ -26,7 +26,7 @@ I am a passionate and curious student currently learning programming and web dev
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/shxtii
 - LinkedIn: ()
 - Instagram- instagram.com/shaktii_o1/
 

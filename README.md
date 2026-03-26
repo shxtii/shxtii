@@ -25,18 +25,6 @@ I am a passionate and curious student currently learning programming and web dev
 
 ---
 
-## 📂 Digital Literacy Project
-This repository is part of my Digital Literacy course project.
-
-### 🔹 Tasks Completed
-- Task 1: Digital Literacy Infographic  
-- Task 2: Digital Portfolio (GitHub, LinkedIn, Kaggle)  
-- Task 3: Coding Challenge & Google Form Quiz  
-- Task 4: Email Etiquette & Social Media Checklist  
-- Task 5: Cybercrime Case Study & Prevention Guide  
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/your-username  
 - LinkedIn: ()
